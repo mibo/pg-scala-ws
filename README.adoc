@@ -1,0 +1,30 @@
+= Playground Scala WebSocket
+
+== Disclaimer
+Current source code and version is published without license. +
+If you (somebody) want to use this in his project please contact me.
+Afterwards I will grant the use of this code without warranty.
+When I find some time to inform myself about the different possible licenses at link:http://choosealicense.com[choosealicense.com]
+I will probably change to a suitable license.
+
+== General information
+This `Playground` project is just a playground for a Scala Websocket server sample.
+
+
+== Technical information
+  * The release versions are based on link:http://semver.org[Semantic Versioning 2.0.0].
+
+== Current Features
+
+  * *nothing*
+
+== New and Noteworthy
+
+  * *nothing*
+
+== Links
+
+  * link:https://blog.scalac.io/2015/07/30/websockets-server-with-akka-http.html[Scala Blog: WS server with akka-http]
+  * link:https://www.playframework.com/documentation/2.6.x/ScalaWebSockets[Playframework Websocket Support]
+  * link:https://doc.akka.io/docs/akka-http/current/scala/http/server-side/websocket-support.html[Akka-Http Websocket support]
+  
