@@ -1,4 +1,4 @@
-package example
+package de.mirb.pg.scala.akka.ws
 
 object Hello extends Greeting with App {
   println(greeting)

@@ -1,4 +1,4 @@
-package example
+package de.mirb.pg.scala.akka.ws
 
 import org.scalatest._
 
